@@ -23,7 +23,7 @@ Latina Programado foi concebida para ser uma linguagem poderosa, capaz de lidar 
 
 - **Frontend e Backend integrados**: A linguagem será dividida em dois principais componentes:
   - *Frontend (.lpk)*: Facilita o desenvolvimento da interface do usuário e aplicações web.
-  - *Backend (.lps): Suporta uma ampla gama de usos, desde aplicações web até sistemas complexos e robustos, com um foco claro na **orientação a objetos* para garantir organização e escalabilidade.
+  - *Backend (.lps)*: Suporta uma ampla gama de usos, desde aplicações web até sistemas complexos e robustos, com um foco claro na *orientação a objetos* para garantir organização e escalabilidade.
 
 - **Aplicativo de Banco de Dados**: 
   Junto com a linguagem, será desenvolvido um aplicativo dedicado para facilitar o gerenciamento e a manipulação de bancos de dados. Esse aplicativo permitirá:
